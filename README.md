@@ -51,7 +51,7 @@
 
 ### Contact:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0077B5)](https://linkedin.com/in/alvaroisraeldesenvolvedor)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0077B5)](https://www.linkedin.com/in/matheus-henrique-fernandes-justino-83a180134/)
 
 <br />
 <br />
