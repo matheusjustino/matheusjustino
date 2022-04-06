@@ -3,9 +3,9 @@
 ## I'm a Developer and Gamer!!
 
 - 🌱 I’m currently learning Golang 🤣
-- 🥅 2021 Goals: Learn english and german
+- 🥅 2022 Goals: Learn english
 - ⚡ Fun fact: I love to play chess
-- 👨‍💻 My stack: Node + Typescript, NestJs
+- 👨‍💻 My stack: Node + Typescript, NestJs, ReactJs
 
 <br />
 
