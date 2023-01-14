@@ -1,4 +1,5 @@
-<p align="center">[![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)](https://matheus-henrique-portfolio.vercel.app)</p>
+[![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)](https://matheus-henrique-portfolio.vercel.app)
+
 <h1 align="center">Hi 👋, I'm Matheus Henrique</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
